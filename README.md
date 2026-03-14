@@ -1,4 +1,4 @@
-# Project DE: Weather ETL Pipeline
+# Project DE: ingestion pipeline using an incremental loading strategy
 
 ## 📖 Project Overview
 This project demonstrates how to build an efficient **batch ingestion pipeline using an incremental loading strategy** to process only new or updated records from a relational database.
